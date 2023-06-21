@@ -1,0 +1,22 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+display: flex;
+align-items: center;
+justify-content: center;
+min-height: 100vh;
+}
+
+h1{
+  width: 600px;
+  height: 400px;
+  text-align: center;
+  border: 1px solid red;
+  background: red;
+  border-radius: 0 0 0 101px;
+}
